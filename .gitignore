@@ -1,0 +1,8 @@
+# Simulink 编译缓存
+slprj/
+*.slxc
+*.autosave
+*.slx.r20*
+
+# 起草用的提示词，不进入公开仓库
+提示词.md
